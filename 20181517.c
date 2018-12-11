@@ -23,19 +23,17 @@ int main(int argc, char *argv[]) {
 
 int fileCharCount(FILE *myFile) {
     rewind(myFile);
-    char buffer[1024];
+    char buffer[1024] = {0};
     int count = 0;
     int i = 0;
     while( !feof( myFile ) )
     {
         i = 0;
-        fgets( buffer, sizeof(buffer), myFile);
+        fgets(buffer, sizeof(buffer), myFile);
         while(buffer[i] != 0){
-            if(buffer[i] == ' '){
-                i++;
-                continue;
+            if(buffer[i]>= 33 && buffer[i]<= 126){
+                count++;
             }
-            count++;
             i++;
         }
     }

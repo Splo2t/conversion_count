@@ -1,0 +1,38 @@
+In 1962, Thomas Kuhn published a groundbreaking book entitled The Structure of Scientific Revolutions. 
+In it, he argued that the progress of science is not gradual but (much as we now think of biological evolution), a kind of punctuated equilibrium, with moments of epochal change. 
+When Copernicus explained the movements of the planets by postulating that they moved around the sun rather than the earth, or when Darwin introduced his ideas about the origin of species, 
+they were doing more than just building on past discoveries, or explaining new experimental data. A truly profound scientific breakthrough, Kuhn notes, "is seldom or never just an increment to what is already known. 
+Its assimilation requires the reconstruction of prior theory and the re-evaluation of prior fact, an intrinsically revolutionary process that is seldom completed by a single man and never overnight."[1] 
+
+Kuhn referred to these revolutionary processes in science as "paradigm shifts", a term that has now entered the language to describe any profound change in our frame of reference. 
+Paradigm shifts occur from time to time in business as well as in science. And as with scientific revolutions, they are often hard fought, and the ideas underlying them not widely accepted until long after they were first introduced. 
+What's more, they often have implications that go far beyond the insights of their creators.
+
+One such paradigm shift occurred with the introduction of the standardized architecture of the IBM personal computer in 1981. 
+In a huge departure from previous industry practice, IBM chose to build its computer from off the shelf components, and to open up its design for cloning by other manufacturers. 
+As a result, the IBM personal computer architecture became the standard, over time displacing not only other personal computer designs, but over the next two decades, minicomputers and mainframes.
+
+However, the executives at IBM failed to understand the full consequences of their decision. At the time, IBM's market share in computers far exceeded Microsoft's dominance of the desktop operating system market today. 
+Software was a small part of the computer industry, a necessary part of an integrated computer, often bundled rather than sold separately. 
+What independent software companies did exist were clearly satellite to their chosen hardware platform. 
+So when it came time to provide an operating system for the new machine, IBM decided to license it from a small company called Microsoft, 
+giving away the right to resell the software to the small part of the market that IBM did not control. 
+As cloned personal computers were built by thousands of manufacturers large and small, IBM lost its leadership in the new market. 
+Software became the new sun that the industry revolved around; Microsoft, not IBM, became the most important company in the computer industry.
+
+But that's not the only lesson from this story. In the initial competition for leadership of the personal computer market, companies vied to "enhance" the personal computer standard, adding support for new peripherals, 
+faster buses, and other proprietary technical innovations. Their executives, trained in the previous, hardware-dominated computer industry, acted on the lessons of the old paradigm.
+
+The most intransigent, such as Digital's Ken Olson, derided the PC as a toy, and refused to enter the market until too late. 
+But even pioneers like Compaq, whose initial success was driven by the introduction of "luggable" computers, the ancestor of today's laptop, were ultimately misled by old lessons that no longer applied in the new paradigm. 
+It took an outsider, Michael Dell, who began his company selling mail order PCs from a college dorm room, to realize that a standardized PC was a commodity, and that marketplace advantage came not from building a better PC, 
+but from building one that was good enough, lowering the cost of production by embracing standards, and seeking advantage in areas such as marketing, distribution, and logistics. In the end, 
+it was Dell, not IBM or Compaq, who became the largest PC hardware vendor.
+
+Meanwhile, Intel, another company that made a bold bet on the new commodity platform, abandoned its memory chip business as indefensible and made a commitment to be the more complex brains of the new design. 
+The fact that most of the PCs built today bear an "Intel Inside" logo reminds us of the fact that even within a commodity architecture, there are opportunities for proprietary advantage.
+
+What does all this have to do with open source software, you might ask?
+
+My premise is that free and open source developers are in much the same position today that IBM was in 1981 when it changed the rules of the computer industry, but failed to understand the consequences of the change, 
+allowing others to reap the benefits. Most existing proprietary software vendors are no better off, playing by the old rules while the new rules are reshaping the industry around them.
